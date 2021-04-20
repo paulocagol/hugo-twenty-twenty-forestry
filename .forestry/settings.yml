@@ -9,6 +9,11 @@ sections:
   label: teste
   create: all
   match: "**/*"
+- type: directory
+  path: ''
+  label: teste
+  create: all
+  match: "**/*"
 - type: document
   path: README.md
   label: README
